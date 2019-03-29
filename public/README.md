@@ -1,0 +1,3 @@
+This program was an introduction to gulp. A gulp file was created in order to optimize uglify and concatenate for the .js files and concatenating the css files. The new files are then sent to a new folder called /dist/ A gulp watch and serve task were also created to monitor the folder for changes, and if there are any, it will reload and run the server. The server is run on localhost:8080/index.html.
+
+    
